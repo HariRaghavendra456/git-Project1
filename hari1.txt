@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This will won't work.
+=======
+This will work.
+>>>>>>> d2b1f56bb1180ccb8c42d59c9a7790cea4e66c05
